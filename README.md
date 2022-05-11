@@ -12,3 +12,4 @@
 
 Este repositorio se tiene almacenado las tareas, la data y los examenes de la clase de Bioinformatica  
 Este es el repositorio de la clase de Bioinformatica semestre 2022
+uso de Got hutdesktop para control de la vercion 
